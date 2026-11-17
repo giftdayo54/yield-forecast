@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sample field (placeholder)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.9,
+              -16.25
+            ],
+            [
+              34.903,
+              -16.25
+            ],
+            [
+              34.903,
+              -16.247
+            ],
+            [
+              34.9,
+              -16.247
+            ],
+            [
+              34.9,
+              -16.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
